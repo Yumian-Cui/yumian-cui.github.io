@@ -67,7 +67,7 @@ publishdir = "public"
         url = "/about/"
         title = ""
         weight = 5
-      [[languages.en.menu.main]] # TODO: change this to CV 
+      [[languages.en.menu.main]] 
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
@@ -111,6 +111,7 @@ publishdir = "public"
         highlightTag = "em"
         # whether to use the absolute URL based on the baseURL in search index
         absoluteURL = false
+        canonifyURLs = true #TODO
         [languages.en.params.search.algolia]
           index = "index.en"
           appID = "PASDMWALPK"
@@ -311,6 +312,7 @@ publishdir = "public"
         highlightTag = "em"
         # 是否在搜索索引中使用基于 baseURL 的绝对路径
         absoluteURL = false
+        canonifyURLs = true
         [languages.zh-cn.params.search.algolia]
           index = "index.zh-cn"
           appID = "PASDMWALPK"
@@ -865,7 +867,7 @@ publishdir = "public"
 # 作者配置
 [author]
   name = "Yumian"
-  email = ""
+  email = "cuiyumian0529@gmail.com"
   link = ""
 
 # Sitemap config
