@@ -58,6 +58,23 @@ I would suggest look over official documentations for basic installation and con
   and name your md file to be ```index.md```. Don't forget to add the ```<!--more-->``` divider if you want to tell Hugo only summarizes the content before divider in preview. 
 {{< /admonition >}}
 
+## 3. Publish your page
+
+Publishing the page is a bit of hassle for me. My sincere suggestion after this experience is to find a tutorial and closely follow the steps. Even if you don't like the theme or the tutorial style, it's always easier to build up your understanding first and level up/optimize from there.
+
+I used GitHub to host my website and here is a list of docs/blogs that I referred to:
+
+* https://hongtaoh.com/en/2021/04/05/hugo-deploy-github-actions/
+* https://gohugo.io/hosting-and-deployment/hosting-on-github/
+* https://levelup.gitconnected.com/build-a-personal-website-with-github-pages-and-hugo-6c68592204c7
+* https://www.pluralsight.com/guides/how-to-host-your-static-webpages-on-github-pages
+
+## 4. Other details
+
+To set up utterances comment section, I updated both ```config.toml``` and installed utterances app to repo. There are other [alternatives](https://gohugo.io/content-management/comments/) like Disqus and Valine. 
+
+
+
 
 
 
