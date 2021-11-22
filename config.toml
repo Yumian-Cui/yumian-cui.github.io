@@ -110,12 +110,12 @@ publishdir = "public"
         # HTML tag name of the highlight part in results
         highlightTag = "em"
         # whether to use the absolute URL based on the baseURL in search index
-        absoluteURL = false
-        canonifyURLs = true #TODO
+        absoluteURL = false # TODO
+        canonifyURLs = false #TODO
         [languages.en.params.search.algolia]
-          index = "index.en"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          index = "yumian-cui.github.io"
+          appID = "W71J2UY103"
+          searchKey = "c5390772461eb25a6d087bb25ecf63cb"
       # Home page config
       [languages.en.params.home]
         # amount of RSS pages
@@ -312,11 +312,11 @@ publishdir = "public"
         highlightTag = "em"
         # 是否在搜索索引中使用基于 baseURL 的绝对路径
         absoluteURL = false
-        canonifyURLs = true
+        canonifyURLs = false
         [languages.zh-cn.params.search.algolia]
-          index = "index.zh-cn"
-          appID = "PASDMWALPK"
-          searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+          index = "yumian-cui.github.io"
+          appID = "W71J2UY103"
+          searchKey = "c5390772461eb25a6d087bb25ecf63cb"
       # 主页信息设置
       [languages.zh-cn.params.home]
         # RSS 文章数目
