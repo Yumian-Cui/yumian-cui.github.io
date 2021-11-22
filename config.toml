@@ -269,12 +269,12 @@ publishdir = "public"
         title = ""
         weight = 5
       [[languages.zh-cn.menu.main]] # TODO
-        identifier = "CV"
-        pre = "<i class='fas fa-file-alt fa-fw'></i>"
+        identifier = "github"
+        pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "/pdf/yc_CV" #TODO
-        title = "CV"
+        url = "https://github.com/Yumian-Cui/yumian-cui.github.io/tree/master" #TODO
+        title = "GitHub"
         weight = 6
     [languages.zh-cn.params]
       # 网站描述
