@@ -1,7 +1,7 @@
 # About Me
 
 
-> Please click **[here](/pdf/yc_CV.pdf)** to view my latest CV. If you have any thoughts about my website or its contents or just anything in general, please don't hesitate to contact me! 
+> Thanks for visiting! This website will soon be added my old posts and updated periodically in the future.Please click **[here](/pdf/yc_CV.pdf)** to view my latest CV. If you have any thoughts about my website or its contents or just anything in general, please don't hesitate to contact me! 
 
 ![c.r. Yizhou Lu](/images/Yumian-Capitol.jpg "May 2020 at Wisconsin State Capitol")
 
