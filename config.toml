@@ -709,7 +709,7 @@ publishdir = "public"
       [params.page.comment.utterances]
         enable = true
         # owner/repo
-        repo = "yumian-cui.github.io"
+        repo = "Yumian-Cui/yumian-cui.github.io"
         issueTerm = "pathname"
         label = ""
         lightTheme = "github-light"
