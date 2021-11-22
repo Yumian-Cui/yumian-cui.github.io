@@ -1,0 +1,13 @@
+---
+baseurl: "https://yumian-cui.github.io/"
+DefaultContentLanguage: "en"
+hasCJKLanguage: true
+languageCode: "zh-cn"
+title: "yumian"
+theme: "loveit"
+metaDataFormat: "yaml"
+algolia:
+  index: "yumian-cui.github.io"
+  key: "c5390772461eb25a6d087bb25ecf63cb"
+  appID: "W71J2UY103"
+---

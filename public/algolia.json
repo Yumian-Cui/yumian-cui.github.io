@@ -1,0 +1,82 @@
+[
+    {
+        "title": "About Me",
+        "uri": "about.en",
+        "content": "Please click view latest CV  thoughts website its contents just anything general  please don t hesitate contact me  name Yumian Cui  China  pronouns she her hers  I m currently senior undergrad UW Madison  studying Data Science Economics  Math emphasis  certificate Computer Science  college  completed education China  Interests   fas fa book open fa fw   reading   fas fa chalkboard teacher fa fw   tutoring   fas fa laptop code fa fw   coding   fas fa drumstick bite fa fw   eating   fas fa music fa fw   listening music   fas fa cat fa fw   playing cats Research Interests   fas fa laptop code fa fw   Machine Learning   fas fa robot fa fw   Human Computer Interaction  HCI    fas fa comments fa fw   Natural Language Processing  NLP",
+        "objectID": "about.en",
+        "date": "2021-11-21T06:37:43.000Z",
+        "draft": false,
+        "lightgallery": true,
+        "math": null,
+        "  enable": true
+    },
+    {
+        "title": "关于我",
+        "uri": "about.zh-cn",
+        "content": "fas fa book open fa fw        fas fa chalkboard teacher fa fw        fas fa laptop code fa fw        fas fa drumstick bite fa fw       fas fa music fa fw         fas fa cat fa fw                  fas fa laptop code fa fw          fas fa robot fa fw        HCI    fas fa comments fa fw          NLP",
+        "objectID": "about.zh-cn",
+        "date": "2021-11-21T06:37:43.000Z",
+        "draft": false,
+        "lightgallery": true,
+        "math": null,
+        "  enable": true
+    },
+    {
+        "weight": 1,
+        "uri": "",
+        "content": "1  Requirements install git install hugo 2  started suggest look official documentations basic installation configuration  cannot solve problem then  check blog posts helpful  Docs  https   gohugo io getting started quick start  https   hugoloveit com   this LoveIt theme Hugo  format troubleshoot generalize templates  YouTube tutorial step step Blogs  is there a place we can put non blog files pdf files in blogdown how to make a mulilingual website with hugo Misc  Font_Awesome docset  icons       page development mode crashed  patient maybe reload server terminal careful syntax  format  especially multilingual setting  you re not sure organization  always refer themes xxx LoveIt  exampleSite folder first that s contained every Hugo repo clone it  When want add featured image content preview home page  do  resources  name   featured image  src   featured image png  name md file      3  Publish page Publishing page bit hassle me  sincere suggestion experience find tutorial closely follow steps  Even don t theme tutorial style  it s always easier build understanding first level up optimize there  used GitHub host website list docs blogs referred to  https   hongtaoh com en 2021 04 05 hugo deploy github actions  https   gohugo io hosting and deployment hosting on github  https   levelup gitconnected com build a personal website with github pages and hugo 6c68592204c7 https   www pluralsight com guides how to host your static webpages on github pages 4  details set utterances comment section  updated",
+        "objectID": "posts/hugo_tutorial",
+        "title": "Build your Hugo website",
+        "date": "2021-11-10T07:44:15.000Z",
+        "lastmod": "2021-11-21T07:44:15.000Z",
+        "draft": false,
+        "description": "A blog that shares some of my own experiences with building Hugo website.",
+        "resources": [
+            {
+                "name": "featured-image",
+                "src": "featured-image.png"
+            }
+        ],
+        "tags": [
+            "installation",
+            "configuration",
+            "website"
+        ],
+        "categories": [
+            "documentation"
+        ],
+        "lightgallery": true,
+        "toc": {
+            "auto": false
+        }
+    },
+    {
+        "weight": 1,
+        "uri": "posts/hugo_tutorial",
+        "content": "1  Requirements install git install hugo 2  started suggest look official documentations basic installation configuration  cannot solve problem then  check blog posts helpful  Docs  https   gohugo io getting started quick start  https   hugoloveit com   this LoveIt theme Hugo  format troubleshoot generalize templates  YouTube tutorial step step Blogs  is there a place we can put non blog files pdf files in blogdown how to make a mulilingual website with hugo Misc  Font_Awesome docset  icons       page development mode crashed  patient maybe reload server terminal careful syntax  format  especially multilingual setting  you re not sure organization  always refer themes xxx LoveIt  exampleSite folder first that s contained every Hugo repo clone it  When want add featured image content preview home page  do  resources  name   featured image  src   featured image png  name md file      3  Publish page Publishing page bit hassle me  sincere suggestion experience find tutorial closely follow steps  Even don t theme tutorial style  it s always easier build understanding first level up optimize there  used GitHub host website list docs blogs referred to  https   hongtaoh com en 2021 04 05 hugo deploy github actions  https   gohugo io hosting and deployment hosting on github  https   levelup gitconnected com build a personal website with github pages and hugo 6c68592204c7 https   www pluralsight com guides how to host your static webpages on github pages 4  details set utterances comment section  updated config toml installed utterances app repo  alternatives Disqus Valine",
+        "objectID": "posts/hugo_tutorial",
+        "title": "Hugo网站搭建经验帖",
+        "date": "2021-11-10T07:44:15.000Z",
+        "lastmod": "2021-11-21T07:44:15.000Z",
+        "draft": false,
+        "description": "A blog that shares some of my own experiences with building Hugo website.",
+        "resources": [
+            {
+                "name": "featured-image",
+                "src": "featured-image.png"
+            }
+        ],
+        "tags": [
+            "安装",
+            "设置",
+            "网站"
+        ],
+        "categories": [
+            "文档"
+        ],
+        "lightgallery": true,
+        "toc": {
+            "auto": false
+        }
+    }
+]
