@@ -3,7 +3,7 @@ weight: 4
 title: "NYC under Covid-19: An analysis on consumer and retail trends"
 date: 2021-11-09T01:44:15-06:00
 lastmod: 2021-11-22T01:44:15-06:00
-draft: true
+draft: false
 
 description: "Independent project via Python in Summer 2020 EconEx externship"
 resources:
