@@ -1,4 +1,4 @@
-baseURL = 'https://yumiancui529.github.io/' # the personal website url
+baseURL = 'https://yumian-cui.github.io/' # the personal website url
 languageCode = 'en-us'
 title = 'Yumian'
 theme = "LoveIt" 
@@ -657,7 +657,7 @@ publishdir = "public"
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
-        enable = false
+        enable = true
         appId = "QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI"
         appKey = "WBmoGyJtbqUswvfLh6L8iEBr"
         placeholder = ""
@@ -707,7 +707,7 @@ publishdir = "public"
       # Utterances comment config (https://utteranc.es/)
       # Utterances comment 评论系统设置 (https://utteranc.es/)
       [params.page.comment.utterances]
-        enable = true
+        enable = false
         # owner/repo
         repo = ""
         issueTerm = "pathname"
