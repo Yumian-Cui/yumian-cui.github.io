@@ -1,17 +1,17 @@
 ---
 weight: 1
-title: "Reflection on p-value in Statistics"
+title: "对假设检验中p值的反思"
 date: 2020-09-01T01:44:15-06:00
 lastmod: 2021-11-22T01:44:15-06:00
 draft: false
 
-description: "Take some time to refresh my understanding towards `p-value` and keep a note here."
+description: "花一些时间来更新我对“p-value”的理解, 并在此处做个笔记"
 # resources:
 # - name: "featured-image"
 #   src: "featured-image.png"
 
-tags: ["p-value", "statistics"]
-categories: ["notes"]
+tags: ["p值", "统计","假设检验"]
+categories: ["笔记"]
 
 lightgallery: true
 

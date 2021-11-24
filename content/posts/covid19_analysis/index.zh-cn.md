@@ -1,16 +1,16 @@
 ---
 weight: 4
-title: "NYC under Covid-19: An analysis on consumer and retail trends"
-date: 2021-11-09T01:44:15-06:00
+title: "Covid-19下的纽约：消费者和零售趋势分析"
+date: 2020-08-09T01:44:15-06:00
 lastmod: 2021-11-22T01:44:15-06:00
 draft: false
 
-description: "Independent project via Python in Summer 2020 EconEx externship"
+description: "2020年夏季EconEx实习, 通过Python编程的独立项目"
 # resources:
 # - name: "featured-image"
 #   src: "featured-image.jpg"
 
-tags: ["Python", "data analysis"]
+tags: ["Python","数据分析"]
 categories: ["projects"]
 
 lightgallery: true

@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Reflection on p-value in Statistics"
+title: "Reflection on p-value in Hypothesis Testing"
 date: 2020-09-01T01:44:15-06:00
 lastmod: 2021-11-22T01:44:15-06:00
 draft: false
@@ -10,7 +10,7 @@ description: "Take some time to refresh my understanding towards `p-value` and k
 # - name: "featured-image"
 #   src: "featured-image.png"
 
-tags: ["p-value", "statistics"]
+tags: ["p-value", "statistics", "hypothesis testing"]
 categories: ["notes"]
 
 lightgallery: true

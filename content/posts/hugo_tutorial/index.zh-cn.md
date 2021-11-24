@@ -5,7 +5,7 @@ date: 2021-11-10T01:44:15-06:00
 lastmod: 2021-11-21T01:44:15-06:00
 draft: false
 
-description: "A blog that shares some of my own experiences with building Hugo website."
+description: "一个博客, 分享我自己构建 Hugo 网站的一些经验"
 # resources:
 # - name: "featured-image"
 #   src: "featured-image.png"
