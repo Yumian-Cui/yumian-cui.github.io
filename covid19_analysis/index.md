@@ -1,8 +1,8 @@
 # NYC under Covid-19: An analysis on consumer and retail trends
 
 
-Independent project via Python in Summer 2020 EconEx externship
 <!--more-->
+<!-- Independent project via Python in Summer 2020 EconEx externship -->
 
 ## 1. What I did
 
