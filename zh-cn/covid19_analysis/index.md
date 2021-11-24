@@ -1,4 +1,4 @@
-# NYC under Covid-19: An analysis on consumer and retail trends
+# Covid-19下的纽约：消费者和零售趋势分析
 
 
 <!--more-->
@@ -10,7 +10,7 @@ In Summer 2020, I was fortunate to be selected into the EconEx externship progra
 
 ## 2. Final results
 
-For final deliverales, here is the [whitepaper](/pdf/EconEx-white-paper.pdf) and I also made a video presentation:
+For final deliverables, here is the [whitepaper](/pdf/EconEx-white-paper.pdf) and I also made a video presentation:
 
 {{< youtube TcK__OEWrQ4>}}
 

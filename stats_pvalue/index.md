@@ -1,4 +1,4 @@
-# Reflection on p-value in Statistics
+# Reflection on p-value in Hypothesis Testing
 
 
 <!--more-->

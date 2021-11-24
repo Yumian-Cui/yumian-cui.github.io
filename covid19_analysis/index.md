@@ -10,7 +10,7 @@ In Summer 2020, I was fortunate to be selected into the EconEx externship progra
 
 ## 2. Final results
 
-For final deliverales, here is the [whitepaper](/pdf/EconEx-white-paper.pdf) and I also made a video presentation:
+For final deliverables, here is the [whitepaper](/pdf/EconEx-white-paper.pdf) and I also made a video presentation:
 
 {{< youtube TcK__OEWrQ4>}}
 
