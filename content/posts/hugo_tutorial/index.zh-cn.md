@@ -6,12 +6,12 @@ lastmod: 2021-11-21T01:44:15-06:00
 draft: false
 
 description: "A blog that shares some of my own experiences with building Hugo website."
-resources:
-- name: "featured-image"
-  src: "featured-image.png"
+# resources:
+# - name: "featured-image"
+#   src: "featured-image.png"
 
 tags: ["安装", "设置", "网站"]
-categories: ["文档"]
+categories: ["笔记"]
 
 lightgallery: true
 

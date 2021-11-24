@@ -6,9 +6,9 @@ lastmod: 2021-11-22T01:44:15-06:00
 draft: false
 
 description: "Independent project via Python in Summer 2020 EconEx externship"
-resources:
-- name: "featured-image"
-  src: "featured-image.jpg"
+# resources:
+# - name: "featured-image"
+#   src: "featured-image.jpg"
 
 tags: ["Python", "data analysis"]
 categories: ["projects"]
@@ -21,8 +21,8 @@ math:
   enable: true
 ---
 
-Independent project via Python in Summer 2020 EconEx externship
 <!--more-->
+<!-- Independent project via Python in Summer 2020 EconEx externship -->
 
 ## 1. What I did
 
