@@ -19,4 +19,4 @@ The dataset came from Kaggle.com, about predicting death due to heart failure ba
 
 **slides**
 
-{{<gdocs src="https://docs.google.com/presentation/d/1F-qny-YMax2kFJYS-Ne1WCSzxM1UPY3B4svdXGtmGCM/edit?usp=sharing">}}
+{{<gdocs src="https://docs.google.com/presentation/d/e/2PACX-1vSjBFzo1HRnauqDi2yGkKTOSZGejFfRP73K74_4C29nmJDUjXgYLzPIhN7flcWcNaYfsBAhgHgy-xk9/embed?start=false&loop=false&delayms=3000">}}
