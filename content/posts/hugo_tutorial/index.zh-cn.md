@@ -31,18 +31,18 @@ toc:
 
 I would suggest look over official documentations for basic installation and configuration. If you cannot solve problem by then, check out blog posts that might be helpful. 
 
-**Docs:**
+### docs
 
 * https://gohugo.io/getting-started/quick-start/
 * https://hugoloveit.com/ (this is the LoveIt theme in Hugo, but format&troubleshoot should generalize to other templates)
 * [YouTube tutorial step by step](https://www.youtube.com/watch?v=5GnFZ8XpMak)
 
-**Blogs:**
+### blogs
 
 * [is-there-a-place-we-can-put-non-blog-files-pdf-files-in-blogdown](https://community.rstudio.com/t/is-there-a-place-we-can-put-non-blog-files-pdf-files-in-blogdown/10138/3)
 * [how-to-make-a-mulilingual-website-with-hugo](https://yonkov.github.io/post/how-to-make-a-mulilingual-website-with-hugo/)
 
-**Misc:**
+### misc
 
 * [Font_Awesome.docset (icons)](https://kapeli.com/cheat_sheets/Font_Awesome.docset/Contents/Resources/Documents/index)
 
@@ -72,4 +72,12 @@ I used GitHub to host my website and here is a list of docs/blogs that I referre
 
 ## 4. Other details
 
+### comment
 To set up utterances comment section, I updated both ```config.toml``` and installed utterances app to repo. There are other [alternatives](https://gohugo.io/content-management/comments/) like Disqus and Valine. 
+
+### gdocs shortcodes
+Thanks to [Ashish Tiwari's shortcodes post](https://ashish.one/gist/add-responsive-google-slides-on-hugo/),[wowchemy-hugo-modules](https://github.com/linozen/wowchemy-hugo-modules), I'm able to incorporate the gdocs shortcodes functionality. In particular, be aware in your shortcodes 
+```code
+{{</*gdocs src="???"*/>}}
+```
+, the ```src``` url should be the one published to web (in your google slides, go to **File** and then **Publish to the web**, select either link or embed and copy the url in src="???"), not the shared url. I corrected this once I found only my laptop web can show gdocs (also the display is not very satisfactory) while ipad and iphone can't. Specifial thanks to [Cecina Babich Morrow's post](https://babichmorrowc.github.io/post/add-google-doc/).
