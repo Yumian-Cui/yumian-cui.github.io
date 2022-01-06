@@ -57,7 +57,7 @@ I used GitHub to host my website and here is a list of docs/blogs that I referre
 To set up utterances comment section, I updated both ```config.toml``` and installed utterances app to repo. There are other [alternatives](https://gohugo.io/content-management/comments/) like Disqus and Valine. 
 
 ### gdocs shortcodes
-Thanks to [Ashish Tiwari's shortcodes post](https://ashish.one/gist/add-responsive-google-slides-on-hugo/),[wowchemy-hugo-modules](https://github.com/linozen/wowchemy-hugo-modules), I'm able to incorporate the gdocs shortcodes functionality. In particular, be aware in your shortcodes 
+Thanks to [Ashish Tiwari's shortcodes post](https://ashish.one/gist/add-responsive-google-slides-on-hugo/) and [wowchemy-hugo-modules](https://github.com/linozen/wowchemy-hugo-modules), I'm able to incorporate the gdocs shortcodes functionality. In particular, be aware in your shortcodes 
 ```code
 {{</*gdocs src="???"*/>}}
 ```
