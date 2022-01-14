@@ -144,7 +144,7 @@ publishdir = "public"
       # Social config in home page
       [languages.en.params.social]
         GitHub = "Yumian-Cui"
-        Linkedin = "in/yumian-cui/"
+        Linkedin = "yumian-cui/"
         Twitter = ""
         Instagram = "cuiyumian0529/"
         Facebook = "yumian.cui.1/"
@@ -344,7 +344,7 @@ publishdir = "public"
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
         GitHub = "Yumian-Cui"
-        Linkedin = "in/yumian-cui/"
+        Linkedin = "yumian-cui/"
         Twitter = ""
         Instagram = "cuiyumian0529/"
         Facebook = "yumian.cui.1/"
