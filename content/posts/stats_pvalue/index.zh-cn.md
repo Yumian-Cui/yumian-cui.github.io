@@ -11,7 +11,7 @@ description: "花一些时间来更新我对“p-value”的理解, 并在此处
 #   src: "featured-image.png"
 
 tags: ["p值", "统计","假设检验"]
-categories: ["笔记"]
+categories: ["博客"]
 
 lightgallery: true
 

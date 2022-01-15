@@ -11,7 +11,7 @@ description: "A blog that shares some of my own experiences with building Hugo w
 #   src: "featured-image.png"
 
 tags: ["installation", "configuration", "website"]
-categories: ["notes"]
+categories: ["blogs"]
 
 lightgallery: true
 
@@ -32,6 +32,7 @@ I would suggest look over official documentations for basic installation and con
 
 ### docs
 
+* https://hugoloveit.com/ (site demo)
 * https://gohugo.io/getting-started/quick-start/
 * https://hugoloveit.com/ (this is the LoveIt theme in Hugo, but format&troubleshoot should generalize to other templates)
 * [YouTube tutorial step by step](https://www.youtube.com/watch?v=5GnFZ8XpMak)

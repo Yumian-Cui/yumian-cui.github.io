@@ -33,6 +33,7 @@ I would suggest look over official documentations for basic installation and con
 
 ### docs
 
+* https://hugoloveit.com/ (site demo)
 * https://gohugo.io/getting-started/quick-start/
 * https://hugoloveit.com/ (this is the LoveIt theme in Hugo, but format&troubleshoot should generalize to other templates)
 * [YouTube tutorial step by step](https://www.youtube.com/watch?v=5GnFZ8XpMak)

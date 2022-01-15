@@ -11,7 +11,7 @@ description: "Take some time to refresh my understanding towards `p-value` and k
 #   src: "featured-image.png"
 
 tags: ["p-value", "statistics", "hypothesis testing"]
-categories: ["notes"]
+categories: ["blogs"]
 
 lightgallery: true
 
