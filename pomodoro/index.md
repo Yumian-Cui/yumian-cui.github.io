@@ -1,4 +1,4 @@
-# 2 seconds to populate my Pomodoro Tracker by Google Sheets API
+# Two Seconds to Populate My Pomodoro Tracker by Google Sheets API
 
 
 <!--more-->
