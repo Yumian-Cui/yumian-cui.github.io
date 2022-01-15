@@ -39,7 +39,7 @@ math:
 * [填充 log.ipynb:python 代码](https://colab.research.google.com/drive/1Fv7dPlDlfu4ncWpW4evg6mk5lZd3fF4l#scrollTo=9eA649f6cosl)
 * [番茄技术 Google Sheets ](https://docs.google.com/spreadsheets/d/1oogWtA5vSlcZTYzYL1CDrv4FIytao2MBBq6UmCKHLK4/edit#gid=0)
 
-## 1. 进口
+## 1. 导入
 
 ```code
 import pandas as pd
@@ -63,7 +63,7 @@ gc = gspread.authorize(GoogleCredentials.get_application_default())
 
 但实际上，一旦你运行了这两行代码，一个 URL 就会弹出，并在浏览器中打开一个新的选项卡，该选项卡要求你授予访问权限。之后，复制 URL 并将其粘贴到“验证”框中。
 
-## 3. 找回你的床单
+## 3. 找到你的表单
 
 ```code
 url = "https://docs.google.com/spreadsheets/d/1oogWtA5vSlcZTYzYL1CDrv4FIytao2MBBq6UmCKHLK4/edit#gid=0"
