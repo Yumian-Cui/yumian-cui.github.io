@@ -73,7 +73,7 @@ logsheet = wb.worksheet("Daily Log")
 ```
 
 Next we're very much prepared to open our spreadsheets. Remember the ```gc``` variable above, which stores a client_class instance which you don't really need to know. 
-```gc.open_by_url(url)``` [opens a spreadhsheet by url](https://docs.gspread.org/en/latest/api.html#gspread.Client.open_by_url) and returns a Spreadsheet instance ```wb```. By changing the name parameter of ```wb.worksheet(???)```, we can retrieve our respective sheets. 
+[```gc.open_by_url(url)```](https://docs.gspread.org/en/latest/api.html#gspread.Client.open_by_url) opens a spreadhsheet by url and returns a Spreadsheet instance ```wb```. By changing the name parameter of ```wb.worksheet(???)```, we can retrieve our respective sheets. 
 
 ## 4. Manipulate retrieved sheets data
 
@@ -128,7 +128,7 @@ newList = createPopulateData(rowsList)
 
 ## 5. Streamline the update process
 
-What if I wish to rewrite because I have made some other modifications to my "Today's To-Do" sheet since my last write? Because the [```sheet.append_rows()```](https://docs.gspread.org/en/latest/api.html#gspread.worksheet.Worksheet.append_rows) function by default appends after the last filled row of the table and I don't want that, I create a marks.json file when I run the script initially, which records the starting index of the range and whether this is an update action. If it's an update action, I will switch to using ```sheet.update()``` as it will update and reflect the new changes I've made to sheet.
+What if I wish to rewrite because I have made some other modifications to my "Today's To-Do" sheet since my last write? Because the [```sheet.append_rows()```](https://docs.gspread.org/en/latest/api.html#gspread.worksheet.Worksheet.append_rows) function by default appends after the last filled row of the table and I don't want that, I create a marks.json file when I run the script initially, which records the starting index of the range and whether this is an update action. If it's an update action, I will switch to using [```sheet.update()```](https://docs.gspread.org/en/latest/api.html#gspread.worksheet.Worksheet.update) as it will update and reflect the new changes I've made to sheet.
 
 ```code
 path = "/content/marks.json"
@@ -158,9 +158,14 @@ append = len(newList) - 1
 end = marks["start"] + append
 
 if not update:
+  print(f"append {len(newList)} rows to Daily Log")
   res = logsheet.append_rows(newList, table_range=f"A{start}:H{end}")
 else:
+  print(f"update {len(newList)} rows to Daily Log")
   res = logsheet.update(f"A{start}:H{end}", newList)
+
+if len(newList) == 0:
+  print("no finished task to append or update yet :)")
 
 res
 ```
