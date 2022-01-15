@@ -61,7 +61,7 @@ gc = gspread.authorize(GoogleCredentials.get_application_default())
 
 The first step is to enable Google Sheets API to access your spreadsheets. "Authentication and authorization are mechanisms used to verify identity and access to resources, respectively." You can learn more about authentication and authorization [here](https://developers.google.com/workspace/guides/auth-overview). 
 
-But essentially, once you run these two lines of code, a URL will pop up and opens a new tab in your browser which requires you to grant access. After that, copy the url and paste that to the box says verification. 
+But essentially, once you run these two lines of code, an URL will pop up and opens a new tab in your browser which requires you to grant access. After that, copy the url and paste that to the box says verification. 
 
 ## 3. Retrieve your sheets
 
