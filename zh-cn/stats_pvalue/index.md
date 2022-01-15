@@ -1,40 +1,32 @@
 # 对假设检验中p值的反思
 
 
-
 <!--more-->
 <!-- Take some time to refresh my understanding towards `p-value`  and keep a note here -->
 <!-- ![](/images/Hugo-Logo.png "A blog that shares some of my own experiences with building Hugo website.") -->
 
+我觉得这个主题非常重要，值得深入探讨，因为我这学期的 4 门课程中有 3 门已经涵盖了这个概念。然而，在我的 AP 课程和大学入门统计课程中，我很早就学会了 P 值和假设检验，这始终有点模糊。因此，为学习巩固和将来的参考复习将是很好的。
 
-I feel this topic is rather important and worthy to dive into as 3 out of my 4 courses this semester have covered this concept. Yet having learned p-value and hypothesis testing on my AP course early since high school and my college introductory stats course, it always remains a bit foggy. Thus, it would be good to review for learning consolidation and future reference. 
+## 1. 拒绝检验假设Ho实际上意味着什么？
 
-## 1. What does it actually mean to reject the null?
+拒绝检验假设 $H_{0}$ 并不意味着它是真的，它只是意味着我们无法证明它是假的。检验假设 $H_{0}$ 和 备择假设 $H_{1}$ 不是对立面。这不是非黑即白。假设检验假设 $H_{0}$ 为真，则发生了一个低概率事件.这种情况似乎很少发生，但如果确实发生了，那么有理由怀疑检验假设 $H_{0}$ 的有效性。
 
-Rejecting null doesn't mean it's true, it just means we fail to prove it's false. $H_{0}$ and $H_{1}$ are not the opposites. It's not like one way or the other. Assume null is true, there has happend a low probability event. It seems too rare to happen but if it does happen, then it's reasonable to suspect the validity of the null. 
+## 2. 假设检验
 
-## 2. Hypothesis testing
+根据伍尔德里奇的教科书:有两种方法。
+1. **经典的**:比较临界值和测试统计量，如果测试统计量 > 临界值，然后拒绝，因为我们得到了一个足够大的值相比空。
 
-According to Wooldrige's textbook: there're two approaches. 
-1. **classical**: compare critical value with test statistic, if test statistic > critical value, then reject, because we get a sufficiently large value compared to the null. 
-
-{{< admonition note "note" >}}
-as $\alpha$ significance level decreases, the critical value increases, which means it becomes harder to reject the null and one needs larger test statistic for rejection. For example, if I can reject the null at 5 % significance level, I can surely reject it at 10%. 
+{{< admonition note "note" >}} 
+随着 $\alpha$ 显著性水平的降低，临界值增加，这意味着更难拒绝检验假设 $H_{0}$ ，并且需要更大的测试统计量来拒绝。例如，如果我可以拒绝 5% 显著性水平的空，那么我肯定可以拒绝 10% 的空。
 {{< /admonition >}}
 
-2. **p-value**: calculate p-value and compare it to sigficance level, if p-value < significance level, reject the null, vice versa. 
+2. **P 值**:计算 P 值并将其与 Sigficance 级别进行比较，如果 P 值 < 显著性级别，则拒绝检验假设 $H_{0}$ ，反之亦然。
 
-## 3. Additional thoughts
+## 3. 额外的想法
 
-> Given the observed value of the t statistic, p value is the smallest significance level (alpha)  at which the null hypothesis would be rejected. {{< style "text-align: right;" >}}-- _Cited from Wooldrige_{{< /style >}}
+> 给定 t 统计量的观测值，p 值是否定零假设的最小显著性水平（alpha）。{{< style "text-align: right;" >}}
+--_引自伍尔德里奇_ {{< /style >}}
 
-To put it in my own understanding, if p-value is 0.03, it means we would observe test statistic as extreme 3% of time when null is true. Smaller p means stronger evidence against $H_{0}$. To compare it with $\alpha$ the signficance level is to make sure if we were to reject the null 3% of time, it should be within the tolerance of error(the significance level), say if $\alpha$ is 0.05, we're willing to accept mistakenly reject the null 5% of time when it is actually true. Why say p-value is the smallest significance level? if we calculate p to be 0.03 and we can reject the null at 3% significance level, we can certainly reject this at 5% if set by the question. 
-
-
-
-
-
-
-
+用我自己的理解来说，如果 p 值是 0.03，这意味着当检验假设 $H_{0}$ 为真时，我们将观察到测试统计为极端 3% 的时间。较小的 p 表示反对 $H_{0}$ 的证据较强。要将它与 $\alpha$ 进行比较，符号度水平是为了确保如果我们在 3% 的时间内拒绝 $H_{0}$ ，它应该在误差容限内（显著性水平），例如，如果 $\alpha$ 是 0.05，我们愿意接受错误地拒绝 5% 的零时间，当它实际上是真的。为什么说 P 值是最小的显著性水平？如果我们计算 p 为 0.03，并且我们可以在 3% 的显著性水平上拒绝 $H_{0}$ ，那么如果问题设置为 5%，我们当然可以拒绝它。
 
 
