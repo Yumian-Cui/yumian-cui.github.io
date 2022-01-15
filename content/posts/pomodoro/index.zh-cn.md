@@ -5,7 +5,7 @@ date: 2022-01-14T01:44:15-06:00
 lastmod: 2022-01-14T01:44:15-06:00
 draft: false
 
-description: "Use Google Colab and gspread, a Python API for Google Sheets, to automatically update my Pomodoro Tracker"
+description: "Use Google Colab and gspread, a Python API for Google Sheets, to update my Pomodoro Tracker"
 
 tags: ["pomodoro", "Python", "gspread", "Colab", "Google Sheets"]
 categories: ["blogs"]
