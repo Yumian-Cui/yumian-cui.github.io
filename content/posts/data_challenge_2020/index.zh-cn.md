@@ -11,7 +11,7 @@ description: "我在 UW-Madison Data Science Club 主办的 Data Challenge 中�
 #   src: "featured-image.png"
 
 tags: ["机器学习", "统计", "数据分析", "Python"]
-categories: ["项目"]
+categories: ["projects"]
 
 lightgallery: true
 

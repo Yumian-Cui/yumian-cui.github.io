@@ -7,7 +7,7 @@ draft: false
 
 description: "使用 Google Colab 和 gspread（用于 Google 表格的 Python API）来更新我的番茄追踪器"
 
-tags: [“番茄钟”、“Python”、“gspread”、“Colab”、“谷歌表格”]
+tags: [“番茄钟”, “Python”, “gspread”, “Colab”, “谷歌表格”]
 categories: ["博客"]
 
 lightgallery: true

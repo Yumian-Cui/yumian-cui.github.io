@@ -11,7 +11,7 @@ description: "2020年夏季EconEx实习, 通过Python编程的独立项目"
 #   src: "featured-image.jpg"
 
 tags: ["Python","数据分析"]
-categories: ["项目"]
+categories: ["projects"]
 
 lightgallery: true
 
