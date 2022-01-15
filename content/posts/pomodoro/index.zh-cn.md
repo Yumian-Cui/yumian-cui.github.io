@@ -18,6 +18,8 @@ math:
   enable: true
 ---
 
+<!--more--> 
+
 Stuggling with time management for the past semester, I came across the [Pomodoro Technique](https://francescocirillo.com/pages/pomodoro-technique) developed by Francesco Cirillo. Although it was something I've heard of a long time ago, I still decided to give it a try. This time I used Google Sheets as my Pomodoro tracker. 
 
 I have divided the tracker to 3 sheets, they are (1) **Today's To-Do**, (2) **Daily Log**, and (3) **To-Dos** (See below images). I would use **To-Dos** to record my general goals I wanna accomplish either in short run or long run. Then, at the beginning of each day, I pick some tasks I would like to focus on and put those to **Today's To-Do**; at the end of each day, I manually enter today's finished tasks and organize them into **Daily Log**, which is an extensive table that recorded what I did each date.
