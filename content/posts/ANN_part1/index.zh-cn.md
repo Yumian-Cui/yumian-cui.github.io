@@ -37,5 +37,5 @@ math:
 
 回想公式: $$ w=w-\alpha（\frac{\partial f}{\partial w}）$$
 
-$\frac{\partial F}{\partial w}$ 是损失 f 相对于重量 w 的梯度，简单地说，它转化为损失的速率随重量的变化而变化，在 2-D 条件下为斜率。如果损失随着重量的增加而增加，$\frac{\partial F}{\partial w}$ 将是一个正值，然后将其从 W 中减去数量 $\alpha (\frac{\partial F}{\partial w})$，以沿梯度的相反方向前进。如果损失随着体重的增加而减少，也同样适用:这意味着 $\frac{\partial F}{\partial w}$ 是一个负值，我们实际上（减去一个负值）将 $\alpha (\frac{\partial F}{\partial w})$ 的量加到 w。，我们的目标是将 W 推向导致 F，我们感兴趣最小化的损失函数，最快下降的方向。
+$\frac{\partial F}{\partial w}$ 是损失 f 相对于参数 w 的梯度，简单地说，它转化为损失随参数 w 的变化而变化的速率，在 2-D 下称之为斜率。如果损失随着参数 w 的增加而增加，$\frac{\partial F}{\partial w}$ 将是一个正值，然后将其从 W 中减去相应值 $\alpha (\frac{\partial F}{\partial w})$，以沿梯度的相反方向前进。如果损失随着参数 w 的增加而减少，也同样适用:这意味着 $\frac{\partial F}{\partial w}$ 是一个负值，我们实际上（减去一个负值）加了 $\alpha (\frac{\partial F}{\partial w})$ 的值到 w。，我们的目标是将 W 推向让 F，我们感兴趣最小化的损失函数，最快下降的方向。
 
