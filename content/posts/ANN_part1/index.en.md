@@ -1,8 +1,8 @@
 ---
 weight: 1
 title: "Write an ANN from Scratch Part I : Perceptron"
-date: 2020-08-09T01:44:15-06:00
-lastmod: 2021-11-22T01:44:15-06:00
+date: 2022-01-18T01:44:15-06:00
+lastmod: 2022-01-18T01:44:15-06:00
 draft: false
 
 description: "Adapted from Data Science Enthusiast Nagesh's tutorial about writing NN in Python"
