@@ -5,7 +5,7 @@
 <!-- Independent project via Python in Summer 2020 EconEx externship -->
 ## 请查看代码！
 
-请查看 Github Gist => <script src="https://gist.github.com/Yumian-Cui/ad4b1b9187fc5e36d4d53a75e4875c8e.js"></script>
+请查看 Github Gist => <script src="https://gist.github.com/Yumian-Cui/8eb25b27e1bf5440a8bd1de63a632341.js"></script>
 
 要像我一样运行Colab，请访问[这里](https://colab.research.google.com/drive/1vcyY0qq-3jpmuG7UHAVEsctV7-WZpe-8?usp=sharing#scrollTo=Fmd55Zzd0Oyj)🙂。
 
