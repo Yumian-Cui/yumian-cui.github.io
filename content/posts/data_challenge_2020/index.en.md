@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 3
 title: "Heart failure death prediction project in Data Challenge 2020"
 date: 2020-11-05T01:44:15-06:00
 lastmod: 2021-11-19T01:44:15-06:00

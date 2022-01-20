@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 6
 title: "Build your Hugo website"
 date: 2021-11-10T01:44:15-06:00
 lastmod: 2021-11-21T01:44:15-06:00
