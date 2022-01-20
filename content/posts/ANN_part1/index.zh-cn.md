@@ -24,7 +24,7 @@ math:
 <!--more-->
 <!-- Independent project via Python in Summer 2020 EconEx externship -->
 
-请查看 Github Gist => https://gist.github.com/Yumian-Cui/ad4b1b9187fc5e36d4d53a75e4875c8e
+请查看 Github Gist => https://gist.github.com/Yumian-Cui/ad4b1b9187fc5e36d4d53a75e4875c8e#file-ann_perceptron-ipynb
 
 要像我一样运行Colab，请访问 https://colab.research.google.com/drive/1vcyY0qq-3jpmuG7UHAVEsctV7-WZpe-8?usp=sharing#scrollTo=Fmd55Zzd0Oyj
 
