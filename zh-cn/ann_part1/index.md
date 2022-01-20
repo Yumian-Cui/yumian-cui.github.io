@@ -9,7 +9,7 @@
 
 要像我一样运行Colab，请访问[这里](https://colab.research.google.com/drive/1vcyY0qq-3jpmuG7UHAVEsctV7-WZpe-8?usp=sharing#scrollTo=Fmd55Zzd0Oyj)🙂。
 
-特别感谢[Nagesh 的教程](https://www.kdnuggets.com/2019/11/build-artificial-neural-network-scratch-part-1.html) 非常简单易懂地解释了神经网络，点击查看教程系列的第一部分。
+特别感谢[Nagesh 的教程](https://www.kdnuggets.com/2019/11/build-artificial-neural-network-scratch-part-1.html)非常简单易懂地解释了神经网络，点击查看教程系列的第一部分。
 
 ## 关于梯度下降的解释
 
