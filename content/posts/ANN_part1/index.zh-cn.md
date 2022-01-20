@@ -35,7 +35,7 @@ math:
 
 我很喜欢 Nagesh 关于梯度下降的解释，让我看到觉得醍醐灌顶。我很高兴在此复述，作为一次小小复习。
 
-回想公式: $$ w=w-\alpha（\frac{\partial f}{\partial w}）$$
+回想公式: $$ w=w-\alpha（\frac{\partial F}{\partial w}）$$
 
-$\frac{\partial F}{\partial w}$ 是损失 f 相对于参数 w 的梯度，简单地说，它转化为损失随参数 w 的变化而变化的速率，在 2-D 下称之为斜率。如果损失随着参数 w 的增加而增加，$\frac{\partial F}{\partial w}$ 将是一个正值，然后将其从 W 中减去相应值 $\alpha (\frac{\partial F}{\partial w})$，以沿梯度的相反方向前进。如果损失随着参数 w 的增加而减少，也同样适用:这意味着 $\frac{\partial F}{\partial w}$ 是一个负值，我们实际上（减去一个负值）加了 $\alpha (\frac{\partial F}{\partial w})$ 的值到 w。，我们的目标是将 W 推向让 F，我们感兴趣最小化的损失函数，最快下降的方向。
+$\frac{\partial F}{\partial w}$ 是损失 F 相对于参数 w 的梯度，简单地说，它可以理解为为损失随参数 w 的变化而变化的速率，在 2-D 下称之为斜率。如果损失随着参数 w 的增加而增加，$\frac{\partial F}{\partial w}$ 将是一个正值，然后将其从 w 中减去相应值 $\alpha (\frac{\partial F}{\partial w})$，以沿梯度的相反方向前进。如果损失随着参数 w 的增加而减少，也同样适用:这意味着 $\frac{\partial F}{\partial w}$ 是一个负值，我们实际上（减去一个负值）加了 $\alpha (\frac{\partial F}{\partial w})$ 到 w。，我们的目标是将 w 推向让 F，我们感兴趣最小化的损失函数，最快下降的方向。
 
