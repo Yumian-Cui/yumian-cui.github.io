@@ -26,7 +26,7 @@ math:
 
 ## Please view my work here!
 
-Please checkout this Github Gist => <script src="https://gist.github.com/Yumian-Cui/ad4b1b9187fc5e36d4d53a75e4875c8e.js"></script>
+Please checkout this Github Gist => <script src="https://gist.github.com/Yumian-Cui/8eb25b27e1bf5440a8bd1de63a632341.js"></script>
 
 To run the Colab just like I did, please click [here](https://colab.research.google.com/drive/1vcyY0qq-3jpmuG7UHAVEsctV7-WZpe-8?usp=sharing#scrollTo=Fmd55Zzd0Oyj)🙂. 
 
