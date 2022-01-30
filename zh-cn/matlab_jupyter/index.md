@@ -91,7 +91,7 @@ jupyter nbextension install --py widgetsnbextension --user
 jupyter nbextension enable --py widgetsnbextension
 ```
 
-编程愉快！我将有另一个关于配置 Julia 的博客，它比这个简单得多。
+编程愉快！我将有另一个关于配置 Julia 的博客，它比这个简单得多。(更新: 请看[关于配置 Julia 博客](https://yumian-cui.github.io/julia_jupyter/)!)
 
 
 
