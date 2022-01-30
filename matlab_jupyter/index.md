@@ -22,7 +22,7 @@ You're encouraged to try it on your own first. Here're some resources (including
 
 {{< /admonition >}}
 
-Most tutorials assume the coders already have a relatively high level of understanding. To a new newbie like me, I'd appreciate more detailed explanation. That's also why I immediately write this blog, for my own reference and for those stuggling with getting it right.
+Most tutorials assume the coders already have a relatively high level of understanding. To a newbie like me, I'd appreciate more detailed explanation. That's also why I immediately write this blog, for my own reference and for those stuggling with getting it right.
 
 ## 1. Create myenv using Conda
 
