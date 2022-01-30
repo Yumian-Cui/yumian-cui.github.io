@@ -11,7 +11,7 @@
 
 我鼓励你先自己试一试。以下是我在流程中提到的一些资源（包括故障排除）：
 
-{{< admonition note "References List" >}} {{< version 0.2.10 >}}
+{{< admonition note "References List" >}} 
 
 - [Jupyter 笔记本电脑的 MATLAB 内核教程](https://portal.geomar.de/documents/18749/1308328/2018-09-27_Matlab+Kernel+for+Jupyter+Notebooks.pdf/ecd33b0c-2f3d-49ca-8146-1b957a68597d)
 - [在非默认位置为 Python 安装 MATLAB 引擎 API ](https://www.mathworks.com/help/matlab/matlab_external/install-matlab-engine-api-for-python-in-nondefault-locations.html)
@@ -57,7 +57,7 @@ pip/conda install matlab_kernal
 python -m matlab_kernel install
 ```
 
-{{< admonition tip >}} {{< version 0.2.10 >}}
+{{< admonition tip >}}
 1. 我建议使用 ```conda``` 而不是 ```pip```。只是我的经验，因为 ```pip``` 一开始会给我带来一些问题。
 2. 运行 ```conda install matlab_kernal``` 时，如果遇到：
 

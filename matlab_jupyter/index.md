@@ -12,7 +12,6 @@ A caveat for those who want to keep on reading, this blog is mainly for installi
 You're encouraged to try it on your own first. Here're some resources (including troubleshoots) I referred to in the process:
 
 {{< admonition note "References List" >}}
-{{< version 0.2.10 >}}
 
 - [Matlab Kernel for Jupyter Notebooks Tutorial](https://portal.geomar.de/documents/18749/1308328/2018-09-27_Matlab+Kernel+for+Jupyter+Notebooks.pdf/ecd33b0c-2f3d-49ca-8146-1b957a68597d)
 - [Install MATLAB Engine API for Python in Nondefault Locations](https://www.mathworks.com/help/matlab/matlab_external/install-matlab-engine-api-for-python-in-nondefault-locations.html)
@@ -56,7 +55,7 @@ python -m matlab_kernel install
 ```
 
 {{< admonition tip >}}
-{{< version 0.2.10 >}}
+
 1. I suggest using ```conda``` instead of ```pip```. Just my experience because ```pip``` causes some issues at first for me. 
 2. When running ```conda install matlab_kernal```, if you run into:
     ```code 
