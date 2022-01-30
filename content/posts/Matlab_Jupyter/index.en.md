@@ -106,7 +106,7 @@ jupyter nbextension install --py widgetsnbextension --user
 jupyter nbextension enable --py widgetsnbextension
 ```
 
-Happy coding! I will have another blog about configuring Julia which is so much easier than this. 
+Happy coding! I will have another blog about configuring Julia which is so much easier than this. (updated: check out the [blog](https://yumian-cui.github.io/julia_jupyter/) about Julia!)
 
 
 
