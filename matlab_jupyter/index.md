@@ -5,7 +5,7 @@
 
 I started using Jupyter Notebook only for coding in Python. However, gradually as I learnt more programming languages, I wish I could have all languages in one environment; Then I don't need to open multiple programs. Luckily, I was told I could easily configure those languages into the Notebook (though not an easy process for me, /(ㄒoㄒ)/~~) and as I would be learning both Matlab and Julia this semester, it would be a good chance to try it out. 
 
-A caveat for those who want to keep on reading, this blog is mainly for installing MATLAB Engine API for Python in a remote location (where you don't have write permission, in other words, not super user) and troubleshooting as I don't want to install Matlab on my own laptop but still want to enjoy the benefits.
+Caveats for those who want to keep on reading, this blog (1) doesn't include how to install Matlab either in your own or remote computer (2) is mainly for installing MATLAB Engine API for Python in a remote location (where you don't have write permission, in other words, not super user) and troubleshooting as I don't want to install Matlab on my own laptop but still want to enjoy the benefits. Though, the process can be adapted and generalized to other cases and I do have references listed below that suit a variety of needs. 
 
 ## 0. References
 
@@ -21,6 +21,8 @@ You're encouraged to try it on your own first. Here're some resources (including
 - [404 error and no such comm target when trying to use ipywidgets](https://github.com/jupyter-widgets/ipywidgets/issues/1720)
 
 {{< /admonition >}}
+
+Most tutorials assume the coders already have a relatively high level of understanding. To a new newbie like me, I'd appreciate more detailed explanation. That's also why I immediately write this blog, for my own reference and for those stuggling with getting it right.
 
 ## 1. Create myenv using Conda
 
