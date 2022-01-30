@@ -1,5 +1,5 @@
 ---
-weight: 1000
+weight: 1001
 title: "Configure Julia into Jupyter Notebook"
 date: 2022-01-30T01:44:15-06:00
 lastmod: 2022-01-30T01:44:15-06:00

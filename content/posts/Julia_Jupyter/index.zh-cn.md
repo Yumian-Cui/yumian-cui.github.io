@@ -1,5 +1,5 @@
 ---
-weight: 1000
+weight: 1001
 title: "将 Julia 配置到 Jupyter Notebook 中"
 date: 2022-01-30T01:44:15-06:00
 lastmod: 2022-01-30T01:44:15-06:00
