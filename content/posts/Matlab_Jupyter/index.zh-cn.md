@@ -10,7 +10,7 @@ description: "我在远程机器上将 Matlab 配置到 Jupyter Notebook 的经�
 # - name: "featured-image"
 #   src: "featured-image.jpg"
 
-tags: ["Matlab", "Jupyter Notebook", "Python"]
+tags: ["Matlab", "Jupyter Notebook", "Python", "设置", "安装"]
 categories: ["博客"]
 
 lightgallery: true

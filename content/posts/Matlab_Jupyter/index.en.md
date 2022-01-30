@@ -10,7 +10,7 @@ description: "My experiences with configuring Matlab into Jupyter Notebook in a 
 # - name: "featured-image"
 #   src: "featured-image.jpg"
 
-tags: ["Matlab", "Jupyter Notebook", "Python"]
+tags: ["Matlab", "Jupyter Notebook", "Python", "configuration", "installation"]
 categories: ["blogs"]
 
 lightgallery: true
