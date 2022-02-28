@@ -1,7 +1,7 @@
 # 关于我
 
 
-> 请点击 **[这里](/pdf/yc_CV.pdf)** 查看我的最新简历。如果您对我的网站或其内容有任何想法或任何一般性的想法，请随时与我联系！
+> 请点击 **[这里](/pdf/yc_CV_2022.pdf)** 查看我的最新简历。如果您对我的网站或其内容有任何想法或任何一般性的想法，请随时与我联系！
 
 ![c.r. Yizhou Lu](/images/Yumian-Capitol.jpg "May 2020 at Wisconsin State Capitol")
 
