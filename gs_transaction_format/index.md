@@ -3,6 +3,8 @@
 
 <!--more-->
 
+by authors Yumian Cui and [Lorenzo Lu](https://lorenzo-lu.github.io/virtual_root/)
+
 Money-borrowing happen almost every second, especially between friends. Today I want to talk about how to facilitate our repayment process so that the minimum transactions can be done. Specifically, here is a google sheet demo I have created to imitate money-borrowing between, say 6 friends. 
 
 ![<img src="raw_transaction.png" width="250"/>](raw_transaction.png "Raw Transaction Sheet")
