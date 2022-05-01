@@ -1,4 +1,4 @@
-# NYC under Covid-19: An analysis on consumer and retail trends
+# NYC under Covid-19: An Analysis on Consumer and Retail Trends
 
 
 <!--more-->

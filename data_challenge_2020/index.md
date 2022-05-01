@@ -1,4 +1,4 @@
-# Heart failure death prediction project in Data Challenge 2020
+# Heart Failure Death Prediction Project in Data Challenge 2020
 
 
 <!--more-->
