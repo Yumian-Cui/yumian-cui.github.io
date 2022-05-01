@@ -35,7 +35,7 @@ The "owed money" or "debt" matrix looks like this:
 
 ![<img src="debt_matrix.png" width="250"/>](debt_matrix.png "Debt Matrix")
 
-You can see clearly that now Andy still needs to pay back $6.03 to Sarah! Although Andy did once lend $7.83 to Sarah, later Sarah lended another $13.86 to Andy. Instead of two transactions where Sarah returns $7.83 to Andy and Andy returns $13.86 to Sarah, only one transaction can do the job!
+You can see clearly that now Andy still needs to pay back \$6.03 to Sarah! Although Andy did once lend $7.83 to Sarah, later Sarah lended another \$13.86 to Andy. Instead of two transactions where Sarah returns \$7.83 to Andy and Andy returns \$13.86 to Sarah, only one transaction can do the job!
 
 This is just a small demo. The application needs more optimization for sure. Stay tuned!
 
