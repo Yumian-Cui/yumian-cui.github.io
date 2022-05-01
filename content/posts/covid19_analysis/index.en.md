@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: "NYC under Covid-19: An analysis on consumer and retail trends"
+title: "NYC under Covid-19: An Analysis on Consumer and Retail Trends"
 date: 2020-08-09T01:44:15-06:00
 lastmod: 2021-11-22T01:44:15-06:00
 draft: false

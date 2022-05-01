@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: "Reflection on p-value in Hypothesis Testing"
+title: "Reflection on P-value in Hypothesis Testing"
 date: 2020-09-01T01:44:15-06:00
 lastmod: 2021-11-22T01:44:15-06:00
 draft: false
