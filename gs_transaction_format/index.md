@@ -34,10 +34,10 @@ If you want to get a hands-on experience, you can try out the demo files. You ar
 
 I referred to some resources which I found particularly useful:
 
-* [Google Apps Script Tutorial for Beginners](https://www.youtube.com/watch?v=Nd3DV_heK2Q) (My format function definitely refers to this! Special thanks for the inspiration.)
+* [Google Apps Script Tutorial for Beginners](https://www.youtube.com/watch?v=Nd3DV_heK2Q) (My format function definitely referred to this! Special thanks for the inspiration.)
 * [Google Apps Script Documentation: Spreadsheet](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app)
-* stackoverflow (recommended!)
-* special thanks to [Lorenzo Lu](https://lorenzo-lu.github.io/virtual_root/) who has helped me along the process!
+* StackOverflow (recommended!)
+* Special thanks to [Lorenzo Lu](https://lorenzo-lu.github.io/virtual_root/) who has helped me along the process!
 
 ## 2. Instructions
 
@@ -51,7 +51,7 @@ If you click the `Custom Functions` in the top menu bar, you will see these four
 
 3. `Clear Format`, as its name suggests, clears only the format but preserves the content. 
 
-4. `Fill Table` is intended to be applied to the last sheet: `debt matrix`. It updates the table in whole every time you run it to matches with the data in `transaction` table. 
+4. `Fill Table` is intended to be applied to the last sheet: `debt matrix`. It updates the table in whole every time you run it to reflect the changes in `transaction` table. 
 
 To achieve the intended effect of the above debt matrix, you need to run `Fill Table` first and then `Format Sheet`. 
 
