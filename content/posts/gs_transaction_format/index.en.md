@@ -53,7 +53,7 @@ I referred to some resources which I found particularly useful:
 * [Google Apps Script Tutorial for Beginners](https://www.youtube.com/watch?v=Nd3DV_heK2Q) (My format function definitely referred to this! Special thanks for the inspiration.)
 * [Google Apps Script Documentation: Spreadsheet](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app)
 * StackOverflow (recommended!)
-* Special thanks to [Lorenzo Lu](https://lorenzo-lu.github.io/virtual_root/) who has helped me along the process!
+* Special thanks to Lorenzo who has helped me
 
 ## 2. Instructions
 
